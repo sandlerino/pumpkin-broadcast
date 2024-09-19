@@ -1,4 +1,4 @@
-# Broadast
+# Broadcast
 <hr>
 An unofficial pumpkin.py extension.
 
